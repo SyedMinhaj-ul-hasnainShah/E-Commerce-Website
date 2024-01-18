@@ -1,0 +1,12 @@
+.container {text-align: center;
+    font-style: oblique;
+}
+header{background-color: black; color: white;}
+button{background-color: black;
+    color: white;
+    cursor: pointer;}
+    body {
+        background-image: url('../images/background.jpg');
+        background-size: cover;
+        background-position: center;
+    }
